@@ -12,3 +12,7 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Strategy without tactics is the slowest route to victory
+Tactics without strategy is the noise before defeat
+The supreme art of war is to subdue the enemy without fighting
+All warfare is based on deception
